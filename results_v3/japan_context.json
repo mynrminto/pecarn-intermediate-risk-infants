@@ -1,0 +1,77 @@
+{
+  "min_flagged_for_all_ciTBI_pct": 84.72622478386167,
+  "min_flagged_for_all_ciTBI_rule": "age<12 OR nf≥1cm OR seizure OR severe_mech",
+  "min_flagged_for_29of30_pct": 70.57636887608069,
+  "min_flagged_for_29of30_rule": "age<12 OR nf≥1cm OR ≥2findings OR seizure",
+  "symptomatic_n": 1309,
+  "symptomatic_ciTBI": 11,
+  "single_findings": [
+    {
+      "finding": "Severe mechanism only",
+      "n": 1338,
+      "CT_rate_pct": 28.923766816143498,
+      "ciTBI": 6,
+      "ciTBI_pct": 0.4484304932735426,
+      "ci_lo": 0.1647384826865589,
+      "ci_hi": 0.9734714346474036
+    },
+    {
+      "finding": "Non-frontal hematoma only",
+      "n": 896,
+      "CT_rate_pct": 30.580357142857146,
+      "ciTBI": 5,
+      "ciTBI_pct": 0.5580357142857143,
+      "ci_lo": 0.18143352892985187,
+      "ci_hi": 1.2974291697542872
+    },
+    {
+      "finding": "Loss of consciousness ≥5 s only",
+      "n": 165,
+      "CT_rate_pct": 58.78787878787879,
+      "ciTBI": 2,
+      "ciTBI_pct": 1.2121212121212122,
+      "ci_lo": 0.14713207255004246,
+      "ci_hi": 4.309820057539115
+    },
+    {
+      "finding": "Not acting normally only",
+      "n": 451,
+      "CT_rate_pct": 47.893569844789354,
+      "ciTBI": 2,
+      "ciTBI_pct": 0.4434589800443459,
+      "ci_lo": 0.05375013096340682,
+      "ci_hi": 1.5926742128894265
+    }
+  ],
+  "lower_stratum": {
+    "n": 1312,
+    "CT": 304,
+    "observed": 215
+  },
+  "ciTBI_per_TBIonCT_ratio": 0.11314736577040374,
+  "threshold3_ciTBI_equiv_pct": 0.3394420973112112,
+  "score_le1": {
+    "n": 1403,
+    "CT": 440,
+    "ciTBI": 6
+  },
+  "ciTBI_score_distribution": {
+    "0": 1,
+    "1": 5,
+    "2": 6,
+    "4": 7,
+    "6": 2,
+    "7": 4,
+    "8": 3,
+    "10": 2
+  },
+  "sedation": {
+    "n_known": 1294,
+    "sedated": 128,
+    "pct": 9.891808346213292,
+    "reason_agitation": 82,
+    "reason_age": 88,
+    "reason_request": 3
+  },
+  "lower_stratum_ct_per_ciTBI": 101.33333333333333
+}

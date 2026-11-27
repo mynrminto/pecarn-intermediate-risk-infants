@@ -1,0 +1,76 @@
+{
+  "CT recommended": {
+    "n": 1442,
+    "pct": 41.55619596541787,
+    "ciTBI": 25,
+    "ciTBI_pct": 1.7337031900138695,
+    "ci_lo": 1.1250234333375198,
+    "ci_hi": 2.5487090091549374,
+    "neurosurgery": 2,
+    "current_CT_pct": 60.124826629680996,
+    "imaged_n": 867,
+    "TBIonCT": 89,
+    "TBIonCT_pct_imaged": 10.265282583621683,
+    "ciTBI_intervention": 2
+  },
+  "Observation-eligible": {
+    "n": 851,
+    "pct": 24.52449567723343,
+    "ciTBI": 2,
+    "ciTBI_pct": 0.23501762632197415,
+    "ci_lo": 0.02847440779619872,
+    "ci_hi": 0.8463623708318639,
+    "neurosurgery": 0,
+    "current_CT_pct": 12.338425381903642,
+    "imaged_n": 105,
+    "TBIonCT": 4,
+    "TBIonCT_pct_imaged": 3.8095238095238098,
+    "ciTBI_intervention": 0
+  },
+  "Individualized": {
+    "n": 1177,
+    "pct": 33.919308357348704,
+    "ciTBI": 3,
+    "ciTBI_pct": 0.2548853016142736,
+    "ci_lo": 0.05259435267567484,
+    "ci_hi": 0.7430600091730744,
+    "neurosurgery": 0,
+    "current_CT_pct": 31.945624468988953,
+    "imaged_n": 376,
+    "TBIonCT": 10,
+    "TBIonCT_pct_imaged": 2.6595744680851063,
+    "ciTBI_intervention": 0
+  },
+  "per100_observation": {
+    "CT_avoided": 12.338425381903642,
+    "sedations_avoided": 1.2204933917184437,
+    "ciTBI_expected": 0.23501762632197415,
+    "ciTBI_intervention_expected": 0.0,
+    "TBIonCT_found_if_all_imaged_est": 3.8095238095238098
+  },
+  "Observation_merged": {
+    "n": 2028,
+    "pct": 58.44380403458213,
+    "ciTBI": 5,
+    "ciTBI_pct": 0.2465483234714004,
+    "ci_lo": 0.08010052295540117,
+    "ci_hi": 0.5744161215846281,
+    "neurosurgery": 0,
+    "ciTBI_intervention": 0,
+    "current_CT_pct": 23.717948717948715,
+    "imaged_n": 481,
+    "TBIonCT": 14,
+    "TBIonCT_pct_imaged": 2.9106029106029108,
+    "n_6_11mo": 806,
+    "n_symptomatic": 587,
+    "ciTBI_6_11mo": 3,
+    "ciTBI_symptomatic": 1
+  },
+  "per100_observation_merged": {
+    "CT_avoided": 23.717948717948715,
+    "sedations_avoided": 2.3461340308326397,
+    "ciTBI_expected": 0.2465483234714004
+  },
+  "overall_CT_rate_current_pct": 38.847262247838614,
+  "pathway_CT_rate_if_CTgroup_all_imaged_and_obs_none_pct": 52.391930835734875
+}

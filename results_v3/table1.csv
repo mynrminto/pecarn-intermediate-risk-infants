@@ -1,0 +1,24 @@
+Characteristic,All,CT performed,No CT
+n,"3,470","1,348","2,122"
+"Age, months, median (IQR)",11 (6–17),8 (4–14),13 (7–18)
+  0–2 months,344 (9.9),243 (18.0),101 (4.8)
+  3–5 months,455 (13.1),257 (19.1),198 (9.3)
+  6–11 months,"1,051 (30.3)",398 (29.5),653 (30.8)
+  12–23 months,"1,620 (46.7)",450 (33.4),"1,170 (55.1)"
+Male sex,"1,887 (54.4)",712 (52.8),"1,175 (55.4)"
+Severe injury mechanism,"1,854 (53.4)",693 (51.4),"1,161 (54.7)"
+Loss of consciousness ≥5 s,284 (8.2),187 (13.9),97 (4.6)
+Not acting normally per parent,731 (21.1),393 (29.2),338 (15.9)
+  No hematoma,"1,591 (45.9)",627 (46.5),964 (45.4)
+  Frontal hematoma,591 (17.0),226 (16.8),365 (17.2)
+"  Non-frontal hematoma, ≤3 cm","1,066 (30.7)",344 (25.5),722 (34.0)
+"  Non-frontal hematoma, >3 cm",158 (4.6),121 (9.0),37 (1.7)
+"  Hematoma, location/size unknown",64 (1.8),30 (2.2),34 (1.6)
+Vomiting,615 (17.7),357 (26.5),258 (12.2)
+Post-traumatic seizure,44 (1.3),36 (2.7),8 (0.4)
+Observed in the ED before CT decision,602 (17.3),137 (10.2),465 (21.9)
+Number of intermediate-risk findings ≥2,620 (17.9),374 (27.7),246 (11.6)
+Clinically important TBI,30 (0.9),30 (2.2),0 (0.0)
+  Neurosurgery,2 (0.1),2 (0.1),0 (0.0)
+  Hospital admission ≥2 nights with TBI on CT,29 (0.8),29 (2.2),0 (0.0)
+TBI on CT (among imaged),–,103 (7.6),–

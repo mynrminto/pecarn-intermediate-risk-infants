@@ -1,0 +1,91 @@
+flow {'total': 43399, 'age_lt2': 10904, 'gcs15_noAMS_noSFx': 9149, 'intermediate': 3471, 'excluded_high_or_missing': 1755, 'excluded_very_low': 5678, 'ciTBI_missing': 1, 'cohortA': 3470, 'ciTBI': 30, 'neurosurgery': 2, 'death': 0, 'intub24': 0, 'hosp2': 29, 'cohortB': 1348, 'TBIonCT': 103, 'ciTBI_in_B': 30, 'ciTBI_not_imaged': 0, 'not_imaged': 2122}
+score points: {'age_0_2': 3, 'age_3_5': 1, 'age_6_11': 1, 'occipital': 1, 'parietal_temporal': 3, 'size_1_3cm': 0, 'size_gt3cm': 3, 'mech_moderate': 0, 'mech_severe': 1} apparent AUC B 0.760, CV-derived 0.742, ciTBI AUC A 0.707
+   Overall All intermediate-risk infants                                          ciTBI 30/3470 (0.86%; 0.58–1.23)  CT 38.8%  TBIonCT 103/1348 (7.6%)
+   age_grp 0–2 months                                                             ciTBI 6/344 (1.74%; 0.64–3.76)  CT 70.6%  TBIonCT 38/243 (15.6%)
+   age_grp 3–5 months                                                             ciTBI 8/455 (1.76%; 0.76–3.43)  CT 56.5%  TBIonCT 23/257 (8.9%)
+   age_grp 6–11 months                                                            ciTBI 10/1051 (0.95%; 0.46–1.74)  CT 37.9%  TBIonCT 27/398 (6.8%)
+   age_grp 12–23 months                                                           ciTBI 6/1620 (0.37%; 0.14–0.80)  CT 27.8%  TBIonCT 15/450 (3.3%)
+  hema_cat No hematoma                                                            ciTBI 9/1591 (0.57%; 0.26–1.07)  CT 39.4%  TBIonCT 25/627 (4.0%)
+  hema_cat Frontal hematoma                                                       ciTBI 4/591 (0.68%; 0.18–1.72)  CT 38.2%  TBIonCT 12/226 (5.3%)
+  hema_cat Non-frontal hematoma, ≤3 cm                                            ciTBI 6/1066 (0.56%; 0.21–1.22)  CT 32.3%  TBIonCT 30/344 (8.7%)
+  hema_cat Non-frontal hematoma, >3 cm                                            ciTBI 10/158 (6.33%; 3.08–11.33)  CT 76.6%  TBIonCT 33/121 (27.3%)
+  hema_cat Hematoma, location/size unknown                                        ciTBI 1/64 (1.56%; 0.04–8.40)  CT 46.9%  TBIonCT 3/30 (10.0%)
+  mech_lab Severe                                                                 ciTBI 20/1854 (1.08%; 0.66–1.66)  CT 37.4%  TBIonCT 62/693 (8.9%)
+  mech_lab Not severe                                                             ciTBI 10/1616 (0.62%; 0.30–1.14)  CT 40.5%  TBIonCT 41/655 (6.3%)
+   loc_lab Yes                                                                    ciTBI 5/284 (1.76%; 0.57–4.06)  CT 65.8%  TBIonCT 8/187 (4.3%)
+   loc_lab No                                                                     ciTBI 25/3186 (0.78%; 0.51–1.16)  CT 36.4%  TBIonCT 95/1161 (8.2%)
+   act_lab Not acting normally                                                    ciTBI 5/731 (0.68%; 0.22–1.59)  CT 53.8%  TBIonCT 20/393 (5.1%)
+   act_lab Acting normally                                                        ciTBI 25/2739 (0.91%; 0.59–1.34)  CT 34.9%  TBIonCT 83/955 (8.7%)
+n_find_cat 1 finding                                                              ciTBI 15/2850 (0.53%; 0.29–0.87)  CT 34.2%  TBIonCT 55/974 (5.6%)
+n_find_cat ≥2 findings                                                            ciTBI 15/620 (2.42%; 1.36–3.96)  CT 60.3%  TBIonCT 48/374 (12.8%)
+   stratum Higher: age <6 months, or non-frontal hematoma >3 cm, or ≥2 findings   ciTBI 21/1306 (1.61%; 1.00–2.45)  CT 58.7%  TBIonCT 85/767 (11.1%)
+   stratum Intermediate: remaining infants                                        ciTBI 6/852 (0.70%; 0.26–1.53)  CT 32.5%  TBIonCT 10/277 (3.6%)
+   stratum Lower: age ≥12 months, single finding, no non-frontal hematoma >3 cm   ciTBI 3/1312 (0.23%; 0.05–0.67)  CT 23.2%  TBIonCT 8/304 (2.6%)
+     score 0                                                                      ciTBI 1/353 (0.28%; 0.01–1.57)  CT 47.9%  TBIonCT 3/169 (1.8%)
+     score 1                                                                      ciTBI 5/1050 (0.48%; 0.15–1.11)  CT 25.8%  TBIonCT 7/271 (2.6%)
+     score 2                                                                      ciTBI 6/918 (0.65%; 0.24–1.42)  CT 35.2%  TBIonCT 13/323 (4.0%)
+     score 3                                                                      ciTBI 0/335 (0.00%; 0.00–1.10)  CT 31.6%  TBIonCT 4/106 (3.8%)
+     score 4                                                                      ciTBI 7/478 (1.46%; 0.59–2.99)  CT 48.7%  TBIonCT 21/233 (9.0%)
+     score 5                                                                      ciTBI 0/112 (0.00%; 0.00–3.24)  CT 63.4%  TBIonCT 11/71 (15.5%)
+     score 6                                                                      ciTBI 2/102 (1.96%; 0.24–6.90)  CT 64.7%  TBIonCT 13/66 (19.7%)
+     score 7                                                                      ciTBI 4/80 (5.00%; 1.38–12.31)  CT 86.2%  TBIonCT 14/69 (20.3%)
+     score 8                                                                      ciTBI 3/19 (15.79%; 3.38–39.58)  CT 100.0%  TBIonCT 6/19 (31.6%)
+     score 9                                                                      ciTBI 0/14 (0.00%; 0.00–23.16)  CT 85.7%  TBIonCT 5/12 (41.7%)
+     score 10                                                                     ciTBI 2/9 (22.22%; 2.81–60.01)  CT 100.0%  TBIonCT 6/9 (66.7%)
+ciTBI ORs:
+       predictor   OR  ci_lo  ci_hi
+         age_lt6 2.12   1.04   4.37
+nonfrontal_large 7.65   2.68  17.38
+     two_or_more 2.87   1.17   6.64
+     severe_mech 1.26   0.55   3.21
+ciTBI 4-predictor model apparent AUC 0.714
+point score AUC for ciTBI in cohort A 0.707
+LR5     feats= 5 CV AUC 0.739±0.004 (boot 0.686–0.789) spec95 0.187 neg95 0.177 spec90 0.336 neg90 0.318
+LR14    feats=18 CV AUC 0.734±0.007 (boot 0.683–0.784) spec95 0.182 neg95 0.172 spec90 0.317 neg90 0.300
+LR51    feats=51 CV AUC 0.725±0.005 (boot 0.677–0.778) spec95 0.156 neg95 0.148 spec90 0.314 neg90 0.297
+RF14    feats=18 CV AUC 0.702±0.008 (boot 0.648–0.760) spec95 0.088 neg95 0.085 spec90 0.190 neg90 0.183
+LGBM14  feats=18 CV AUC 0.697±0.013 (boot 0.644–0.755) spec95 0.083 neg95 0.080 spec90 0.194 neg90 0.187
+PointScore AUC 0.760 (boot 0.690–0.792) spec95 0.185 neg95 0.174 spec90 0.337 neg90 0.318
+LR5 intercept -4.023 
+          variable   coef    OR  OR_lo  OR_hi
+        AgeInMonth -0.081 0.922  0.880  0.957
+         HemaLoc_2  0.198 1.219  0.557  2.251
+         HemaLoc_3  0.825 2.281  1.348  3.719
+          HemaSize  0.416 1.516  1.221  1.849
+High_impact_InjSev  0.491 1.634  1.137  2.545
+per-100 table:
+  pt  NB_all  NB_LR5  NB_LR14  LR5_CT_avoided_per100  LR5_TBI_missed_per100  LR5_sens  LR5_spec  LR5_NPV  ciTBI_below_threshold  n_below_threshold  ciTBI_below_pct  ciTBI_below_lo  ciTBI_below_hi  intervention_below_threshold
+0.02   0.058   0.057    0.056                 18.694                  0.445     0.942     0.198    0.976                      3                252            1.190           0.246           3.439                             0
+0.03   0.048   0.050    0.048                 28.412                  0.668     0.913     0.300    0.977                      4                383            1.044           0.285           2.652                             0
+0.04   0.038   0.042    0.040                 37.982                  1.113     0.854     0.399    0.971                      7                512            1.367           0.551           2.797                             0
+0.05   0.028   0.035    0.035                 47.033                  1.632     0.786     0.492    0.965                     11                634            1.735           0.869           3.083                             1
+0.06   0.017   0.032    0.032                 55.267                  1.929     0.748     0.578    0.965                     12                745            1.611           0.835           2.797                             1
+0.08  -0.004   0.028    0.028                 68.175                  2.522     0.670     0.711    0.963                     13                919            1.415           0.755           2.407                             1
+score levels:
+ score  B_n  B_TBIonCT  B_pct  A_n  A_ciTBI  A_pct  A_CT_rate  cum_B_n  cum_B_TBIonCT  cum_B_pct  cum_B_frac  cum_A_n  cum_A_ciTBI  cum_A_pct  cum_A_ci_lo  cum_A_ci_hi  cum_A_frac
+     0  169          3   1.78  353        1   0.28      47.88      169              3       1.78       12.54      353            1       0.28         0.01         1.57       10.17
+     1  271          7   2.58 1050        5   0.48      25.81      440             10       2.27       32.64     1403            6       0.43         0.16         0.93       40.43
+     2  323         13   4.02  918        6   0.65      35.19      763             23       3.01       56.60     2321           12       0.52         0.27         0.90       66.89
+     3  106          4   3.77  335        0   0.00      31.64      869             27       3.11       64.47     2656           12       0.45         0.23         0.79       76.54
+     4  233         21   9.01  478        7   1.46      48.74     1102             48       4.36       81.75     3134           19       0.61         0.37         0.95       90.32
+     5   71         11  15.49  112        0   0.00      63.39     1173             59       5.03       87.02     3246           19       0.59         0.35         0.91       93.54
+     6   66         13  19.70  102        2   1.96      64.71     1239             72       5.81       91.91     3348           21       0.63         0.39         0.96       96.48
+     7   69         14  20.29   80        4   5.00      86.25     1308             86       6.57       97.03     3428           25       0.73         0.47         1.07       98.79
+     8   19          6  31.58   19        3  15.79     100.00     1327             92       6.93       98.44     3447           28       0.81         0.54         1.17       99.34
+     9   12          5  41.67   14        0   0.00      85.71     1339             97       7.24       99.33     3461           28       0.81         0.54         1.17       99.74
+    10    9          6  66.67    9        2  22.22     100.00     1348            103       7.64      100.00     3470           30       0.86         0.58         1.23      100.00
+safety criteria:
+                                                                                                                        criterion                 type  n_flagged  pct_flagged  ciTBI_captured  ciTBI_total  sens_pct  sens_lo  sens_hi  neurosurgery_captured  ciTBI_in_unflagged  risk_unflagged_pct  risk_unflagged_lo  risk_unflagged_hi  current_CT_rate_flagged_pct
+                                        Rule-in A: higher-risk stratum (age <6 mo, or non-frontal hematoma >3 cm, or ≥2 findings)              rule-in       1306        37.64              21           30     70.00    50.60    85.27                      2                   9                0.42               0.19               0.79                        58.73
+                                                              Rule-in B: higher-risk stratum, or seizure, or ≥3 vomiting episodes              rule-in       1442        41.56              25           30     83.33    65.28    94.36                      2                   5                0.25               0.08               0.57                        60.12
+                                                                                                             Rule-in C: score ≥ 3              rule-in       1149        33.11              18           30     60.00    40.60    77.34                      1                  12                0.52               0.27               0.90                        50.91
+                                                                                                             Rule-in D: score ≥ 1              rule-in       3117        89.83              29           30     96.67    82.78    99.92                      2                   1                0.28               0.01               1.57                        37.82
+                                             Rule-in E: age <12 mo, or non-frontal hematoma, or vomiting, or seizure, or LOC ≥5 s              rule-in       2855        82.28              29           30     96.67    82.78    99.92                      2                   1                0.16               0.00               0.90                        43.47
+                           Observation-eligible 1: age ≥12 mo, single finding, no non-frontal hematoma >3 cm (lower-risk stratum) observation-eligible       1312        37.81              27           30     90.00    73.47    97.89                      2                   3                0.23               0.05               0.67                        23.17
+Observation-eligible 2: asymptomatic (no vomiting, seizure, LOC ≥5 s, acting normally), age ≥12 mo, no non-frontal hematoma >3 cm observation-eligible        919        26.48              28           30     93.33    77.93    99.18                      2                   2                0.22               0.03               0.78                        12.73
+                                                         Observation-eligible 3: asymptomatic, age ≥6 mo, no non-frontal hematoma observation-eligible        846        24.38              28           30     93.33    77.93    99.18                      2                   2                0.24               0.03               0.85                        17.85
+                                                                                Observation-eligible 4: asymptomatic and score ≤1 observation-eligible        635        18.30              28           30     93.33    77.93    99.18                      2                   2                0.31               0.04               1.13                        11.50
+min flagged for 30/30: 84.7% (('age<12', 'nf≥1cm', 'seizure', 'severe_mech')); for 29/30: 70.6% (('age<12', 'nf≥1cm', '≥2findings', 'seizure'))
+japan context: {"min_flagged_for_all_ciTBI_pct": 84.72622478386167, "min_flagged_for_all_ciTBI_rule": "age<12 OR nf≥1cm OR seizure OR severe_mech", "min_flagged_for_29of30_pct": 70.57636887608069, "min_flagged_for_29of30_rule": "age<12 OR nf≥1cm OR ≥2findings OR seizure", "symptomatic_n": 1309, "symptomatic_ciTBI": 11, "single_findings": [{"finding": "Severe mechanism only", "n": 1338, "CT_rate_pct": 28.923766816143498, "ciTBI": 6, "ciTBI_pct": 0.4484304932735426, "ci_lo": 0.1647384826865589, "ci_hi": 0.9734714346474036}, {"finding": "Non-frontal hematoma only", "n": 896, "CT_rate_pct": 30.580357142857146, "ciTBI": 5, "ciTBI_pct": 0.5580357142857143, "ci_lo": 0.18143352892985187, "ci_hi": 1.2974291697542872}, {"finding": "Loss of consciousness ≥5 s only", "n": 165, "CT_rate_pct": 58.78787878787879, "ciTBI": 2, "ciTBI_pct": 1.2121212121212122, "ci_lo": 0.14713207255004246, "ci_hi": 4.309820057539115}, {"finding": "Not acting normally only", "n": 451, "CT_rate_pct": 47.893569844789354, "ciTBI": 2, "ciTBI_pct": 0.4434589800443459, "ci_lo": 0.05375013096340682, "ci_hi": 1.5926742128894265}], "lower_stratum": {"n": 1312, "CT": 304, "observed": 215}, "ciTBI_per_TBIonCT_ratio": 0.11314736577040374, "threshold3_ciTBI_equiv_pct": 0.3394420973112112, "score_le1": {"n": 1403, "CT": 440, "ciTBI": 6}, "ciTBI_score_distribution": {"0": 1, "1": 5, "2": 6, "4": 7, "6": 2, "7": 4, "8": 3, "10": 2}, "sedation": {"n_known": 1294, "sedated": 128, "pct": 9.891808346213292, "reason_agitation": 82, "reason_age": 88, "reason_request": 3}, "lower_stratum_ct_per_ciTBI": 101.33333333333333}  [case-level listings removed from the distributed copy]
+pathway: {"CT recommended": {"n": 1442, "pct": 41.56, "ciTBI": 25, "ciTBI_pct": 1.73, "ci_lo": 1.13, "ci_hi": 2.55, "neurosurgery": 2, "current_CT_pct": 60.12, "imaged_n": 867, "TBIonCT": 89, "TBIonCT_pct_imaged": 10.27, "ciTBI_intervention": 2}, "Observation-eligible": {"n": 851, "pct": 24.52, "ciTBI": 2, "ciTBI_pct": 0.24, "ci_lo": 0.03, "ci_hi": 0.85, "neurosurgery": 0, "current_CT_pct": 12.34, "imaged_n": 105, "TBIonCT": 4, "TBIonCT_pct_imaged": 3.81, "ciTBI_intervention": 0}, "Individualized": {"n": 1177, "pct": 33.92, "ciTBI": 3, "ciTBI_pct": 0.25, "ci_lo": 0.05, "ci_hi": 0.74, "neurosurgery": 0, "current_CT_pct": 31.95, "imaged_n": 376, "TBIonCT": 10, "TBIonCT_pct_imaged": 2.66, "ciTBI_intervention": 0}, "per100_observation": {"CT_avoided": 12.34, "sedations_avoided": 1.22, "ciTBI_expected": 0.24, "ciTBI_intervention_expected": 0.0, "TBIonCT_found_if_all_imaged_est": 3.81}, "Observation_merged": {"n": 2028, "pct": 58.44, "ciTBI": 5, "ciTBI_pct": 0.25, "ci_lo": 0.08, "ci_hi": 0.57, "neurosurgery": 0, "ciTBI_intervention": 0, "current_CT_pct": 23.72, "imaged_n": 481, "TBIonCT": 14, "TBIonCT_pct_imaged": 2.91, "n_6_11mo": 806, "n_symptomatic": 587, "ciTBI_6_11mo": 3, "ciTBI_symptomatic": 1}, "per100_observation_merged": {"CT_avoided": 23.72, "sedations_avoided": 2.35, "ciTBI_expected": 0.25}, "overall_CT_rate_current_pct": 38.847262247838614, "pathway_CT_rate_if_CTgroup_all_imaged_and_obs_none_pct": 52.391930835734875}
+DONE

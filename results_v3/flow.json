@@ -1,0 +1,20 @@
+{
+  "total": 43399,
+  "age_lt2": 10904,
+  "gcs15_noAMS_noSFx": 9149,
+  "intermediate": 3471,
+  "excluded_high_or_missing": 1755,
+  "excluded_very_low": 5678,
+  "ciTBI_missing": 1,
+  "cohortA": 3470,
+  "ciTBI": 30,
+  "neurosurgery": 2,
+  "death": 0,
+  "intub24": 0,
+  "hosp2": 29,
+  "cohortB": 1348,
+  "TBIonCT": 103,
+  "ciTBI_in_B": 30,
+  "ciTBI_not_imaged": 0,
+  "not_imaged": 2122
+}

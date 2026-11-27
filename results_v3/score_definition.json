@@ -1,0 +1,29 @@
+{
+  "coefficients": {
+    "age_0_2": 1.3220384257975013,
+    "age_3_5": 0.5559173501141542,
+    "age_6_11": 0.3978210814864254,
+    "occipital": 0.45048211758415,
+    "parietal_temporal": 1.0752664661916822,
+    "size_1_3cm": 0.08854252872832291,
+    "size_gt3cm": 1.2690752984468368,
+    "mech_moderate": -0.048522285555151014,
+    "mech_severe": 0.5940130221873531
+  },
+  "unit": 0.3978210814864254,
+  "points": {
+    "age_0_2": 3,
+    "age_3_5": 1,
+    "age_6_11": 1,
+    "occipital": 1,
+    "parietal_temporal": 3,
+    "size_1_3cm": 0,
+    "size_gt3cm": 3,
+    "mech_moderate": 0,
+    "mech_severe": 1
+  },
+  "max_score": 10,
+  "auc_score_B_apparent": 0.7604008266074005,
+  "auc_score_B_cv_derived": 0.7418372519203025,
+  "auc_score_A_ciTBI": 0.706812015503876
+}
